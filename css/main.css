@@ -1,0 +1,41 @@
+
+body {
+	position: relative;
+}
+
+.jumbotron {
+	background-image: url(../img/jumbotron-photo.jpeg);
+	text-align: center;
+	margin-top: 50px;
+}
+
+#email {
+	width: 300px;
+}
+
+#appSummary {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#appStoreIcon {
+	width: 200px;
+}
+
+#googlePlayIcon {
+	width: 200px;
+}
+
+#footer {
+	background-color: aqua;
+	padding-top: 150px;
+	margin-top: 50px;
+	text-align: center;
+	padding-bottom: 150px;
+}
+
+#footer h2,
+#footer p.lead {
+	width: 100%;
+}
